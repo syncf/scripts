@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+# UBUNTU LTS
+
+# CLEAR
+clear
+
+# UPDATE
+sudo apt-get update
+
+# UPGRADE
+sudo apt-get upgrade -y
+
+# DIST UPGRADE
+sudo apt-get dist-upgrade -y
+
+# AUTO REMOVE
+sudo apt-get autoremove -y
+
+# DONE
